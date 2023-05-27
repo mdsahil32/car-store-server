@@ -1,0 +1,72 @@
+[
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2015,
+    "price": 10000,
+    "image": "https://media.ed.edmunds-media.com/honda/civic/2015/oem/2015_honda_civic_coupe_si-wnavigation_fq_oem_2_815.jpg"
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2014,
+    "price": 9500,
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_720,q_auto,f_auto/prod/cars/cr/model-years/6770-2014-toyota-corolla"
+  },
+  {
+    "make": "Ford",
+    "model": "Focus",
+    "year": 2013,
+    "price": 9000,
+    "image": "https://www.newcartestdrive.com/wp-content/uploads/2012/09/13-focus-hero.jpg"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "year": 2012,
+    "price": 8500,
+    "image": "https://images.hgmsites.net/hug/2012-chevrolet-malibu-4-door-sedan-ltz-w-1lz-angular-front-exterior-view_100367738_h.jpg"
+  },
+  {
+    "make": "Nissan",
+    "model": "Sentra",
+    "year": 2016,
+    "price": 10500,
+    "image": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/15q4/662481/2016-nissan-sentra-photos-and-info-news-car-and-driver-photo-663837-s-original.jpg?fill=2:1&resize=1200:*"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": 2015,
+    "price": 9500,
+    "image": "https://www.almrsal.com/wp-content/uploads/2013/10/8272_st0640_046.jpg"
+  },
+  {
+    "make": "Kia",
+    "model": "Soul",
+    "year": 2014,
+    "price": 9000,
+    "image": "https://images.hgmsites.net/lrg/2014-kia-soul-5dr-wagon-auto-angular-front-exterior-view_100459903_l.jpg"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "year": 2013,
+    "price": 8500,
+    "image": "https://mysterio.yahoo.com/mysterio/api/0F695B325D1027FD7CE27EB608EECA45C6FC96B4E90FD65CFB4C27E951CAD81B/autoblog/resizefill_w660_h372;quality_80;format_webp;cc_31536000;/https://s.aolcdn.com/commerce/autodata/images/USC30VWC033C221001.jpg"
+  },
+  {
+    "make": "Mazda",
+    "model": "Mazda3",
+    "year": 2012,
+    "price": 8000,
+    "image": "https://cars.usnews.com/static/images/Auto/izmo/338625/2012_mazda_mazda3_angularfront.jpg"
+  },
+  {
+    "make": "Subaru",
+    "model": "Impreza",
+    "year": 2016,
+    "price": 11000,
+    "image": "https://redbook.pxcrush.net/redbookcars/car/spec/suba3s1t.jpg?pxc_method=fit&pxc_size=1795%2C1195"
+  }
+]
